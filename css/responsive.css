@@ -175,12 +175,6 @@
         position: relative;
         left: 266px;
     }
-    .pricing_table_item:nth-child(3) {
-        margin-right: 0;
-        margin-left: 0;
-        position: relative;
-        left: 24px;
-    }
     .p_content ul li {
         font-size: 21px;
     }
@@ -253,13 +247,19 @@
         margin-right: 0;
     }
     .pricing_table_item {
-        width: 100%;
+        width: 94%;
         margin-right: 0;
     }
-    .teble_3 {
+    .pricing_table_item:nth-child(3) {
+        margin-right: 0;
+        margin-left: 0;
         position: relative;
-        left: 28px;
+        left: 24px;
     }
+    .team_members {
+        margin-top: 65px;
+    }
+   
 }
 
 @media (max-width: 954px) {
@@ -328,6 +328,9 @@
     }
     .section_title p {
         font-size: 23px;
+    }
+    .s_title h2 {
+        font-size: 26px;
     }
 }
 
