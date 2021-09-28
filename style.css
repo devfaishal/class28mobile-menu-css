@@ -506,9 +506,9 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
 .testimonial_section{
 	padding: 100px 0;
 }
-.testimonial_items
-.t_item{
-	width: 444px;
+
+.t_item {
+	width: 433px;
 	margin-right: -22px;
 }
 .t_item:last-child{
