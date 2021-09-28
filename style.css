@@ -239,6 +239,7 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
 	margin-right: 2%;
 	padding: 48px 32px;
 	box-sizing: border-box;
+	margin-bottom: 32px;
 }
 .service_box:nth-child(2){
 	height: 254px;
